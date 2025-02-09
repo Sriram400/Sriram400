@@ -8,6 +8,7 @@ I am a passionate **Full Stack Web Developer** with expertise in:
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
+- **Tools:** Git, Visual Studio Code
 
 I love creating user-friendly, high-performance web applications and continuously learning new technologies to enhance my skills.
 
@@ -24,6 +25,8 @@ I love creating user-friendly, high-performance web applications and continuousl
     <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express.js-gray?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 ---
@@ -36,3 +39,4 @@ I love creating user-friendly, high-performance web applications and continuousl
 ---
 
 ⭐️ Feel free to **star** my repositories if you find them useful!
+
